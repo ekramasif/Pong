@@ -4,3 +4,7 @@ Pong is a table tennis-themed arcade video game, featuring simple two-dimensiona
 - **Difficulty**: Beginner
 - **Topics**: Physics, AI
 - **Version**: Unity 2019.4 LTS
+
+## Quick Installation
+
+    git clone https://github.com/ekramasif/Pong.git
